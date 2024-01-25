@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:practica_tres/pages/effects/practica_dos_effects/main_effects.dart';
 
 @immutable
@@ -56,6 +57,11 @@ class HomeScreen extends StatelessWidget {
 
   PreferredSizeWidget _buildAppBar(BuildContext context) {
     return AppBar(
+      leading: IconButton(
+          onPressed: () {
+            context.pop();
+        },
+          icon: const Icon(Icons.arrow_back)),
       title: const Text('Welcome'),
       actions: [
         IconButton(

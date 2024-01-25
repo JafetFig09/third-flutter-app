@@ -18,4 +18,13 @@ List<MenuItem> listItems = [
   MenuItem(title: 'Navigation flow' , route: '/effect_navigation', icon: Icons.navigate_next_rounded),
   MenuItem(title: 'Instagram Filter' , route: '/effect_instragram', icon: Icons.photo),
   MenuItem(title: 'Parallax Effect' , route: '/effect_parallax', icon: Icons.list),
+  MenuItem(title: 'Shimmer loading' , route: '/effect_shimmer', icon: Icons.pages),
+  MenuItem(title: 'Menu animation' , route: '/effect_menu', icon: Icons.menu),
+  MenuItem(title: 'Typing indicator' , route: '/effect_typing', icon: Icons.menu),
+  MenuItem(title: 'Expandle Fab' , route: '/effect_flab', icon: Icons.expand_rounded),
+  MenuItem(title: 'Message Burbble' , route: '/effect_message', icon: Icons.message),
+  MenuItem(title: 'Effect Drag' , route: '/effect_drag', icon: Icons.drag_handle),
+  MenuItem(title: 'Touch ripples' , route: '/gesture_touch', icon: Icons.touch_app),
+  MenuItem(title: 'Handle taps' , route: '/gesture_taps', icon: Icons.tapas_sharp),
+  MenuItem(title: 'Implement swipe' , route: '/gesture_swipe', icon: Icons.swipe),
 ];

@@ -2,3 +2,9 @@ export 'package:practica_tres/pages/effects/practica_uno_effects/cupertino_downl
 export 'package:practica_tres/pages/effects/practica_dos_effects/main_effects.dart';
 export 'package:practica_tres/pages/effects/practica_tres_effects/instragram_effects.dart';
 export 'package:practica_tres/pages/effects/practica_cuatro_efffects/main_scrolling.dart';
+export 'package:practica_tres/pages/effects/practica_cinco_effects/shimers.dart';
+export 'package:practica_tres/pages/effects/practica_seis_effects/example_stagger_animation.dart';
+export 'package:practica_tres/pages/effects/practica_siete_effects/example_typing.dart';
+export 'package:practica_tres/pages/effects/practica_ocho_effects/example_expadable_fab.dart';
+export 'package:practica_tres/pages/effects/practica_nueve_effects/example_gradiends.dart';
+export 'package:practica_tres/pages/effects/practica_diez_effects/example_drag.dart';
